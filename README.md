@@ -81,4 +81,4 @@ Your package.json file should look something like this:
 
 ``` $ npm run deploy  ``` Run this command everytime you want to push new changes to your gh-pages branch.
 
-* [ Click to see a sample of website uploaded through gh-pages](https://jogavidia.github.io/pages-deploy/)
+* [ Click to see a sample of website uploaded through gh-pages](https://jogavidia.github.io/gh-pages/)
